@@ -1,0 +1,2 @@
+# Slim ping api application
+It's need to work on servers in different network segments to make it answers right.
